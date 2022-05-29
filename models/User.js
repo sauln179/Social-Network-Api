@@ -7,6 +7,7 @@ const userSchema = new Schema({
     required: true,
     trim: true
     },
+    //validates email
     email:{
         type: String,
         required: true,
