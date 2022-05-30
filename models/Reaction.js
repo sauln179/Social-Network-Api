@@ -6,6 +6,7 @@ const reactionSchema = new Schema({
         type: Types.ObjectId,
         default: new Types.ObjectId()
     },
+    //Uses Moment to format date appropriately
     reactionBody: {
         type: String,
         required: true,
