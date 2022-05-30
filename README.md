@@ -1,5 +1,8 @@
 
   # Social Network API
+  [Social Network API pt.1](https://drive.google.com/file/d/1Tbq1UHbjF7YliADD0oluWeY018vulo8z/view?usp=sharing) <-- Click Here to view video.<br>
+   [Social Network API pt.2](https://drive.google.com/file/d/1YoPu67HzpE2ptJntVvcoR31uzhd9V_ep/view?usp=sharing) <-- Click Here to view video.<br>
+
   ## Apache
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -17,7 +20,7 @@
 - [Questions](#questions)
 
 # Installation
-Requires Moment to format time, express, and mongoose to run this databse.
+Requires Moment to format time, express, and mongoose to run this database. Run npm i to install dependencies. Then use npm start, and have insomia ready.
 
 # Usage
 A Social Network API that uses a NoSql Database where it can handle a large amount of unstructured data. Test outs the API to make sure they function.
@@ -26,7 +29,7 @@ A Social Network API that uses a NoSql Database where it can handle a large amou
 Use this and leave feedback
 
 # Test
-In Insomia, use these endpoints. 
+In Insomia, use these endpoints. <br>
 **User**
 - Get all users:        `GET /api/users`
 - Create a user:        `POST /api/users`
